@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Equipe e Divisão de Tarefas
+## 👥 Aluno
 
 * **Thallis Gabriel de Mello da Silva:** Responsável geral pelo projeto.
 
@@ -40,7 +40,7 @@ Para garantir a validade estatística dos testes e a correta plotagem da curva d
 
 ---
 
-## 🚀 Como Executar (Reprodutibilidade)
+## 🚀 Como Executar
 
 Todo o código foi agrupado em um notebook para facilitar a execução.
 
